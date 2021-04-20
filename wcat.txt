@@ -1,0 +1,2 @@
+Created own commands functionality
+-s -n -b
